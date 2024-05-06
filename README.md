@@ -26,6 +26,7 @@ https://wireframepro.mockflow.com/view/MqnWsLqDPh#/page/fd78411b2b0b4e62a689e674
 
 LINK MANUAL TECNICO Y DE USUARIO:
 https://drive.google.com/drive/folders/13P625PeqXajUW9n3FZJcsn1-6LpOU__U?usp=sharing
+
 -----------------------------------------------------------------------
 
 LICENSE
